@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @caiohenriquebr
-- 👀 I’m interested in development in JavaScript, Java
-- 🌱 I’m currently learning ...
+- 👋 Olá, Eu sou o @caiohenriquebr
+- 👀 Eu sou  interessado em desenvolvimento Java e Javascript.
+- 🌱 Atualmente estou lendo ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 📫 Com chegar até mim: @devcaiohenrique, caiohenriquebr12@gmail.com
+- 😄 Pronomes: ele/dele
+- ⚡ Fun fact: ..;
 
 <!---
 caiohenriquebr/caiohenriquebr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
